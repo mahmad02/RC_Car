@@ -7,7 +7,7 @@ This is a project in which we designed an embedded system controlled remote cont
     set up clocks,
     exhibit an understanding of power usage,
     control the car over the internet (IoT),
-    allow for autonomous and controlled protions for a final circuit.
+    and allow for autonomous and controlled portions for a final circuit.
 
 
 This repository contains two main project folders: LineDetect, and FullCircuit.
